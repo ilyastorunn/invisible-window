@@ -1,0 +1,7 @@
+{
+  "name": "Invisible Window",
+  "description": "A webcam-based augmented reality experiment that creates a transparent window illusion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
